@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6d8510c9-4243-4bba-92b2-777c728c5aed" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1S62crQFmDO4t6k1QhHT1aqC1OX" />
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.zad14d">
+    <configuration name="zad14c" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Zadania1.zad14c" />
+      <module name="Projekt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Zadania1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zad14d" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Zadania1.zad14d" />
+      <module name="Projekt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Zadania1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zad14e" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Zadania1.zad14e" />
+      <module name="Projekt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Zadania1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zad14f" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Zadania1.zad14f" />
+      <module name="Projekt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Zadania1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zadania14dadtkowe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Zadania1.zadania14dadtkowe" />
+      <module name="Projekt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Zadania1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.zadania14dadtkowe" />
+      <item itemvalue="Application.zad14c" />
+      <item itemvalue="Application.zad14d" />
+      <item itemvalue="Application.zad14e" />
+      <item itemvalue="Application.zad14f" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.zad14d" />
+        <item itemvalue="Application.zad14f" />
+        <item itemvalue="Application.zad14e" />
+        <item itemvalue="Application.zad14c" />
+        <item itemvalue="Application.zadania14dadtkowe" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d8510c9-4243-4bba-92b2-777c728c5aed" name="Default Changelist" comment="" />
+      <created>1570869807035</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570869807035</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Zadania1/zad14d.java</url>
+          <line>4</line>
+          <properties class="Zadania1.zad14d" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
