@@ -1,8 +1,4 @@
-package Zadania;
-
-import com.sun.org.apache.xpath.internal.objects.XString;
-
-import java.util.Arrays;
+package dev.Zadania_presentation;
 
 public class trening {
     public static void main(String[] args) {

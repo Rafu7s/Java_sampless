@@ -1,4 +1,4 @@
-package Zadania;
+package dev.Zadania_presentation;
 
 public class Zad14 {
     //Stwórz klasę MyFirstClass

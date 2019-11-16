@@ -1,4 +1,4 @@
-package Zadania;
+package dev.Zadania_presentation;
 
 public class zad9 {
     public static void main(String[] args) {

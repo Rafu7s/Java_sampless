@@ -1,6 +1,4 @@
-package Zadania;
-
-import java.util.Arrays;
+package dev.Zadania_presentation;
 
 public class zad5b {
     public static void main(String[] args) {

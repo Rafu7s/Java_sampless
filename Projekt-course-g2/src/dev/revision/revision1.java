@@ -1,4 +1,4 @@
-package Zadania;
+package dev.revision;
 
 public class revision1 {
     public static void main(String[] args) {

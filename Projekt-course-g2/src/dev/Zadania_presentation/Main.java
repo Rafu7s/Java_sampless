@@ -1,4 +1,4 @@
-package com.company;
+package dev.Zadania_presentation;
 
 public class Main {
 

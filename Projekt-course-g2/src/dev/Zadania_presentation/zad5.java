@@ -1,4 +1,4 @@
-package Zadania;
+package dev.Zadania_presentation;
 
 import java.util.Arrays;
 

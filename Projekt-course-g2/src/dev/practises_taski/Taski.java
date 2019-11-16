@@ -1,4 +1,4 @@
-package Zadania;
+package dev.practises_taski;
 
 import java.util.Arrays;
 
